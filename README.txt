@@ -10,6 +10,8 @@ CMB2 Google Fonts lets you add google font for every title or text you like, sim
     License: GPLv2 or later
     License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+<img src="https://github.com/Freelancer-Martin/CMB2-Google-Fonts/blob/master/includes/img/google-font-back-end.png"/>
+
 Contribution
 
 Development occurs on Github, and all contributions welcome.
